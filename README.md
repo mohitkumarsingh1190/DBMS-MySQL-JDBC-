@@ -15,13 +15,9 @@ The repository includes PDFs on the following topics:
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/mohitkumarsingh1190/DBMS-MySQL-JDBC-
    ```
-2. Navigate to the directory:
-   ```sh
-   cd <repository_name>
-   ```
-3. Open the PDFs with any PDF reader to study the concepts.
+2. Open the PDFs with any PDF reader to study the concepts.
 
 ## 📧 Contact
 
